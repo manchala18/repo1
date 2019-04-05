@@ -1,0 +1,3 @@
+this is second file adding to practice git
+Git is the version control system.It aLLOWS multiple developers to work at the same time 
+and it saves the versions of files
